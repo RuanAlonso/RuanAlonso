@@ -1,4 +1,4 @@
-# Olá, eu sou o Ruan 👋
+# Olá, eu sou o Ruan!
 
 Profissional de TI em transição para **Analista de Sistemas / Banco de Dados (DBA) / QA**, com experiência prática em SQL, validação de dados, troubleshooting de sistemas e testes de APIs REST.
 
